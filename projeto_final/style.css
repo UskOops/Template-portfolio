@@ -225,7 +225,7 @@ a:hover {
     justify-content: center;
     align-items: center;
     filter: grayscale(0.5);
-    color: white;
+    color: rgb(216, 216, 216);
     cursor: pointer;
     transition: 0.3s;
 }
@@ -234,7 +234,7 @@ a:hover {
     width: 40%;
     font-family: sans-serif;
     letter-spacing: 1px;
-    color: rgb(109, 109, 109);
+    color: rgb(10, 9, 1);
 }
 
 .card-wrapper {
@@ -295,7 +295,7 @@ a:hover {
 .footer {
     width: 100%;
     height: 100px;
-    background-color: #2E1C2B;
+    background-color: #b11a1a;
     display: flex;
     justify-content: center;
     align-items: center;
